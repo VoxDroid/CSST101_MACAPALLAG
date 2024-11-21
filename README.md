@@ -12,3 +12,4 @@
 ### Laboratory Exercise #2: [Click here to view - 09/17/2024](https://github.com/VoxDroid/CSST101_MACAPALLAG/tree/main/CSST_101_BSCS3BIS_MACAPALLAG_MHAR_ANDREI/3B-MACAPALLAG-EXER2)
 ### Laboratory Exercise #3: [Click here to view - 10/01/2024](https://github.com/VoxDroid/CSST101_MACAPALLAG/tree/main/CSST_101_BSCS3BIS_MACAPALLAG_MHAR_ANDREI/3B-MACAPALLAG-EXER3)
 ### Laboratory Exercise #4: [Click here to view - 10/01/2024](https://github.com/VoxDroid/CSST101_MACAPALLAG/tree/main/CSST_101_BSCS3BIS_MACAPALLAG_MHAR_ANDREI/3B-MACAPALLAG-EXER4)
+### Laboratory Exercise #7: [Click here to view - 11/22/2024](https://github.com/VoxDroid/CSST101_MACAPALLAG/tree/main/CSST_101_BSCS3BIS_MACAPALLAG_MHAR_ANDREI/3B-MACAPALLAG-EXER7)
